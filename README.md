@@ -1,5 +1,8 @@
 # SimpleBot
 A Simple Bot made using Java
 
-## To run
-java SimpleBot.java
+## To Build
+javac SimpleBot.java
+
+## To Run
+java SimpleBot
